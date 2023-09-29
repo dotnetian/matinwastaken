@@ -1,3 +1,3 @@
-Active .NET Developer. Not so active open-source contributor.
+Active .NET Developer. Currently maintaining Bargeh.net
   
 // TODO: Add more details LOL
